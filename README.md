@@ -13,5 +13,6 @@ HTML: For the structure of the web page.
 CSS: For styling the user interface.
 JavaScript: For generating passwords and handling user interactions.
 
-![image](https://github.com/user-attachments/assets/06b9a5a7-6466-4aac-add1-1b5355ba9d19)
+![image](https://github.com/user-attachments/assets/2627c641-4977-4cf2-a504-c0cf59a96d51)
+
 
